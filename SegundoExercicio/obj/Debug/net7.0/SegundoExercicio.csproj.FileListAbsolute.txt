@@ -1,0 +1,15 @@
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net7.0\SegundoExercicio.exe
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net7.0\SegundoExercicio.deps.json
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net7.0\SegundoExercicio.runtimeconfig.json
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net7.0\SegundoExercicio.dll
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net7.0\SegundoExercicio.pdb
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.csproj.AssemblyReference.cache
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.dll
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\refint\SegundoExercicio.dll
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.pdb
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\SegundoExercicio.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net7.0\ref\SegundoExercicio.dll
